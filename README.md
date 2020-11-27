@@ -1,1 +1,1 @@
-# timecalculator
+# react calculator
